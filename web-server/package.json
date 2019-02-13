@@ -8,6 +8,7 @@
     , "connect": ">=0.0.1"
     , "ejs": "0.8.3"
     , "generic-pool": "*"
+    , "mime":"^1" 
     , "mysql": "*"
   }
 }
